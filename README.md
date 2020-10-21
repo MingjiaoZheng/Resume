@@ -1,10 +1,6 @@
 # Resume
 
-https://zmj2020.gitee.io/resume
-
-## Object
-
-前端求职/程序员求职
+https://mingjiaozheng.github.io/Resume/
 
 ## Preview
 
